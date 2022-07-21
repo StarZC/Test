@@ -461,4 +461,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Test/Test/Assets/../Bin/2022-7-20 2_10_5.apk
+  playerPath: C:/inetpub/wwwroot/AAA/2022-7-21 2_0_5.apk

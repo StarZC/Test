@@ -35,7 +35,7 @@ public class BuildTool : MonoBehaviour
         BuildPlayerOptions opt = new BuildPlayerOptions();
         opt.scenes = new string[] { "Assets/Scenes/SampleScene.unity" };
         string projectName = DateTime.Now.ToString("yyyy-M-d h_m_s");
-        opt.locationPathName = Application.dataPath + "/../Bin/" + projectName + ".apk";
+        opt.locationPathName = "C:/inetpub/wwwroot/AAA/" + projectName + ".apk";
         opt.target = BuildTarget.Android;
         opt.options = BuildOptions.None;
         
